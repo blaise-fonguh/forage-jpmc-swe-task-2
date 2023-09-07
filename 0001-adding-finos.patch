@@ -1,0 +1,24 @@
+From d87d7a922461a133b9f9aa3d3c729d4028274aff Mon Sep 17 00:00:00 2001
+From: Fonguh Blaise Tanam <58627106+blaise-fonguh@users.noreply.github.com>
+Date: Thu, 7 Sep 2023 16:01:40 +0000
+Subject: [PATCH] adding finos
+
+---
+ .vscode/settings.json | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/.vscode/settings.json b/.vscode/settings.json
+index e1e04f5..d753676 100644
+--- a/.vscode/settings.json
++++ b/.vscode/settings.json
+@@ -3,6 +3,7 @@
+         "bwalk",
+         "dateutil",
+         "Everytime",
++        "finos",
+         "izip",
+         "parms",
+         "parseable",
+-- 
+2.34.1.windows.1
+
