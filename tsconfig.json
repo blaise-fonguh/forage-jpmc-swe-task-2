@@ -17,7 +17,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "types": ["@types/d3-selection"] // Place this line here, inside the "compilerOptions"
   },
   "include": [
     "src"
